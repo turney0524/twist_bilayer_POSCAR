@@ -47,4 +47,5 @@ stacking is known.
 The output contains `2 * Natoms * (M^2 + MN + N^2)` atoms. Relax the final
 structure with a dispersion-inclusive method before calculating properties.
 
-![twisted_bilayer_CuCrP2S6](2.png)
+![twisted_bilayer_CuCrP2S6](1.png)
+![twisted_bilayer_graph](2.png)
